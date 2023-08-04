@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-5g-pro-plus-db-gadgets360-800x600-1673019783.jpg",
+      "product_name": "Redmi Note 9",
+      "product_description": "Redmi Note 9 pro max with amoled display",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": "4000"
+    },
+    {
+      "id": 2,
+      "product_image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-5g-pro-plus-db-gadgets360-800x600-1673019783.jpg",
+      "product_name": "Redmi Note 9",
+      "product_description": "Redmi Note 9 pro max with amoled display",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": "4000"
+    },
+    {
+      "id": 3,
+      "product_image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-5g-pro-plus-db-gadgets360-800x600-1673019783.jpg",
+      "product_name": "Redmi Note 9",
+      "product_description": "Redmi Note 9 pro max with amoled display",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": "4000"
+    },
+    {
+      "id": 4,
+      "product_image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-5g-pro-plus-db-gadgets360-800x600-1673019783.jpg",
+      "product_name": "Redmi Note 9",
+      "product_description": "Redmi Note 9 pro max with amoled display",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": "4000"
+    },
+    {
+      "id": 5,
+      "product_image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-5g-pro-plus-db-gadgets360-800x600-1673019783.jpg",
+      "product_name": "Redmi Note 9",
+      "product_description": "Redmi Note 9 pro max with amoled display",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": "4000"
+    },
+    {
+      "id": 6,
+      "product_image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-5g-pro-plus-db-gadgets360-800x600-1673019783.jpg",
+      "product_name": "Redmi Note 9",
+      "product_description": "Redmi Note 9 pro max with amoled display",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": "4000"
+    },
+    {
+      "id": 7,
+      "product_image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-5g-pro-plus-db-gadgets360-800x600-1673019783.jpg",
+      "product_name": "Redmi Note 9",
+      "product_description": "Redmi Note 9 pro max with amoled display",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": "4000"
+    },
+    {
+      "id": 8,
+      "product_image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-5g-pro-plus-db-gadgets360-800x600-1673019783.jpg",
+      "product_name": "Redmi Note 9",
+      "product_description": "Redmi Note 9 pro max with amoled display",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": "4000"
+    },
+    {
+      "id": 9,
+      "product_image": "https://i.gadgets360cdn.com/products/large/redmi-note-12-5g-pro-plus-db-gadgets360-800x600-1673019783.jpg",
+      "product_name": "Redmi Note 9",
+      "product_description": "Redmi Note 9 pro max with amoled display",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": "4000"
+    }
+  ]
+}
